@@ -56,7 +56,9 @@ export default Paginacao;
 
 
 // Explicação do que está acontecendo para não esquecer depois
+
 // Parte	                        O que faz
+
 // useState(1)	                    Armazena a página atual
 // itemsPerPage	                    Quantos itens queremos por página
 // startIndex e endIndex	        Calculam os limites da página atual
